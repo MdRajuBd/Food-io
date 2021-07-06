@@ -1,6 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
+    padding: 0;
 }
 h1{
     font-size: 50px;
@@ -48,11 +49,16 @@ h1{
 .about-me{
     background-image: url(images/Frame\ 58.jpg);
     background-repeat: no-repeat;
+    padding-top: 40px;
 }
 .recipies-type {
     text-align: center;
     padding-left: 3%;
   
+}
+.my-recipies{
+    width:100%;
+    text-align: center;
 }
 
 .recipies-part img{
